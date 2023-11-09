@@ -1,5 +1,5 @@
 info:
   profile: prod
   
-name: prodName
-words: 'prod is me'
+name2: prodName
+words2: 'prod is me'
